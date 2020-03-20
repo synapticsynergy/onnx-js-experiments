@@ -1,0 +1,8 @@
+# Dependancies
+node_modules/
+
+# Ignore model file
+bestmodel.onnx
+
+# Misc.
+.vscode/
