@@ -2,7 +2,8 @@
 node_modules/
 
 # Ignore model file
-bestmodel.onnx
+models/*
+labels/*
 
 # Misc.
 .vscode/
