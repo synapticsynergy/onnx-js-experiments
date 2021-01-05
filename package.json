@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/synapticsynergy/onnx-js-experiments#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "ndarray": "^1.0.19",
     "ndarray-ops": "^1.2.2",
     "onnxjs-node": "^0.4.1",
